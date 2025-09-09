@@ -1,4 +1,4 @@
-<h1>Breadboard CPUn</h1>
+<h1>Breadboard CPU</h1>
 
 
 <h2>Description</h2>
